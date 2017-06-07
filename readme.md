@@ -12,5 +12,3 @@ Visual Search Server
 5. http://pixelogik.github.io/NearPy/
 
    
-#### License:    
-I plan to switch to an Apache 2.0 license soon, staty tuned. Please contact me if you have any questions in the meantime. 
