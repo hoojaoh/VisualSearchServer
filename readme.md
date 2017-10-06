@@ -4,7 +4,7 @@ Visual Search Server
 **This project is NO longer maintained! Please use [Deep Video Analytics](https://github.com/akshayubhat/DeepVideoAnalytics).**
 
 
-#### Following libraries & templates are used:
+#### Libraries & templates
 1. https://almsaeedstudio.com/
 2. http://fabricjs.com/kitchensink
 3. https://github.com/karpathy/convnetjs
